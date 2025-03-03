@@ -67,7 +67,7 @@ I am a **Software Developer** and **Programmer** with a passion for **problem-so
 ---
 
 ## 📈 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suparoek&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=supxroek&show_icons=true&theme=tokyonight)
 
 ---
 
