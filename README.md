@@ -77,8 +77,8 @@ I am a **Software Developer** and **Programmer** with a passion for creating eff
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suparoek&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suparoek&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=supxroek&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supxroek&layout=compact&theme=radical)
 
 ---
 
