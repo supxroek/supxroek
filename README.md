@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Suparoek Manajit**
 
-![Profile Banner](https://source.unsplash.com/1600x400/?technology,coding)
+![Profile Banner](https://images.unsplash.com/photo-1639431682289-72b9ebb75895?q=80&w=1964&h=380&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ## 💻 About Me
 I am a **Software Developer** and **Programmer** with a passion for creating efficient and user-friendly applications. I love problem-solving and continuously improving my skills in software development.
@@ -13,6 +13,8 @@ I am a **Software Developer** and **Programmer** with a passion for creating eff
 📞 +66 96-907-5364  
 📧 suparoek.sm@gmail.com  
 🏠 4/6 No.10, Khlong Phon, Khlong Thom, Krabi 81170  
+
+💻 website: https://portfolio-suparoek.vercel.app/
 
 ---
 
@@ -36,7 +38,7 @@ I am a **Software Developer** and **Programmer** with a passion for creating eff
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/> </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40" </a>
 </p>
 
 ### **Tools & Technologies**
@@ -44,34 +46,7 @@ I am a **Software Developer** and **Programmer** with a passion for creating eff
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> </a>
 </p>
-
----
-
-## 🌟 Soft Skills
-
-- **Leadership**  
-- **Problem-Solving**  
-- **Teamwork & Collaboration**  
-- **Creativity in Design**  
-- **Communication & Presentation**  
-- **Adaptability & Flexibility**  
-- **Time Management**  
-
----
-
-## 📂 Projects & Experience
-
-### **Web Application Development** *(Nov - 2024)*
-- Led a team of 8-11 in developing and delivering web applications.
-- Developed a responsive web app, integrating front-end and back-end technologies for a seamless experience.
-- Supervised team operations, ensuring efficient workflow and timely delivery.
-
-### **Database Management System** *(Sep - 2024)*
-- Designed and standardized databases using **Oracle Database** to meet project needs and optimize system performance.
-- Applied **normalization techniques** for data integrity and efficiency.
-- Managed **database schema design** in Oracle for scalability and ease of maintenance.
 
 ---
 
@@ -84,9 +59,10 @@ I am a **Software Developer** and **Programmer** with a passion for creating eff
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suparoek)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/supxroek)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/suparoek)
+<p align="left">
+  <a href="https://www.instagram.com/s.supxroek/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" width="20" height="20"/> </a>
+  <a href="https://x.com/_supxroek" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/x/x-ar21.svg" alt="x" width="30" height="20" </a>
+</p>
 
 ---
 
